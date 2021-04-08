@@ -1,4 +1,4 @@
-# MingMsg
+# MingMsg - 小茗同学
 Windows系统消息
 
 python在Windows上显示系统提示消息比较麻烦，就搞了个简单的工具
